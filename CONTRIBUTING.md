@@ -41,7 +41,7 @@ Welcome! We appreciate your interest in contributing to this project. All contri
 Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## Reporting Issues
-If you find a bug or have a suggestion, please open an issue on the [Issues page](https://github.com/YOUR-USERNAME/REPOSITORY-NAME/issues). Provide as much detail as possible to help us understand and address the problem.
+If you find a bug or have a suggestion, please open an issue on the [Issues page](https://github.com/Salama-Jamal/github-final-project/issues). Provide as much detail as possible to help us understand and address the problem.
 
 ## Questions?
 If you have any questions, feel free to reach out by opening an issue or contacting the maintainers directly.
